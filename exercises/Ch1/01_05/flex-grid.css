@@ -1,0 +1,31 @@
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+html, body {
+  height: 100%;
+  margin: 0;
+}
+.container {
+  font-family: sans-serif;
+  display: grid;
+  height: 50%;
+}
+header {
+  background: #ce96a6;
+}
+main {
+  background: #d1a7a0;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+footer {
+  background: #d2e0bf;
+}
+p {
+  margin: 0;
+  padding: 20px;
+}

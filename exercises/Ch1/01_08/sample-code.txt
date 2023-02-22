@@ -1,0 +1,33 @@
+Test code for W3C HTML Validator
+
+<html>
+  <head></head>
+  <body>
+    <p>Sample code with errors.</p
+  </body>
+</html>
+
+
+Test code for CSS Lint
+
+h1 {
+  margin: 0;
+	font-size: 60px;
+  font-family: 'Sacramento', cursive;
+}
+h2 {
+  font-weight: 400;
+  margin: 5px 0;
+  font-size: 14px;
+  text-transform: uppercase;
+  border-bottom: 1px solid;
+}
+section {
+	padding: 60px 0;
+}
+.content-wrapper {
+  width: 78%;
+  max-width: 950px;
+	margin: 0 auto;
+	overflow: hidden;
+}

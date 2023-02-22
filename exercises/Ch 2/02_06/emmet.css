@@ -1,0 +1,23 @@
+/*
+Emmet shortcut examples:
+(All shortcuts are expanded by pressing the tab key after the shortcut)
+
+- Add just the property name by typing the first letter
+  Example: "m" will expand to margin.
+
+- Add the property name and value by adding a number
+  Examples: 
+  m10 will expand to margin: 10px; 
+  - the default unit is set to pixels
+
+  m10.5 will expand to margin: 10.5em; 
+  - the default unit for decimal values is em
+  
+  m10% will expand to margin: 10%; 
+  - to use a unit other than pixel or em, just add that to the abbreviation
+
+- For multi-word properties, use the first letters of the name, followed by the value
+  Example: pt10 will expand to padding-top: 10px;
+
+Learn more about Emmet here: https://www.emmet.io/
+*/
